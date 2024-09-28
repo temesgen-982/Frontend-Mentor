@@ -1,3 +1,30 @@
 [submodule "qr-code-component-main"]
 	path = qr-code-component-main
 	url = https://github.com/temesgen-982/qr-code-component-main.git
+[submodule "newsletter-sign-up-with"]
+	path = newsletter-sign-up-with
+	url = https://github.com/temesgen-982/newsletter-sign-up-with.git
+[submodule "time-tracking-dashboard"]
+	path = time-tracking-dashboard
+	url = https://github.com/temesgen-982/time-tracking-dashboard.git
+[submodule "article-preview-component"]
+	path = article-preview-component
+	url = https://github.com/temesgen-982/article-preview-component.git
+[submodule "product-preview-card"]
+	path = product-preview-card
+	url = https://github.com/temesgen-982/product-preview-card.git
+[submodule "testimonials-grid-section"]
+	path = testimonials-grid-section
+	url = https://github.com/temesgen-982/testimonials-grid-section.git
+[submodule "four-card-feature-section"]
+	path = four-card-feature-section
+	url = https://github.com/temesgen-982/four-card-feature-section.git
+[submodule "recipe-page"]
+	path = recipe-page
+	url = https://github.com/temesgen-982/recipe-page.git
+[submodule "Social-links-profile"]
+	path = Social-links-profile
+	url = https://github.com/temesgen-982/Social-links-profile.git
+[submodule "blog-preview-card"]
+	path = blog-preview-card
+	url = https://github.com/temesgen-982/blog-preview-card.git
