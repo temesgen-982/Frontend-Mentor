@@ -28,3 +28,6 @@
 [submodule "blog-preview-card"]
 	path = blog-preview-card
 	url = https://github.com/temesgen-982/blog-preview-card.git
+[submodule "contact-form"]
+	path = contact-form
+	url = https://github.com/temesgen-982/contact-form.git
