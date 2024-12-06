@@ -31,3 +31,12 @@
 [submodule "contact-form"]
 	path = contact-form
 	url = https://github.com/temesgen-982/contact-form.git
+[submodule "tip-calculator-app"]
+	path = tip-calculator-app
+	url = https://github.com/temesgen-982/tip-calculator-app.git
+[submodule "faq-accordion"]
+	path = faq-accordion
+	url = https://github.com/temesgen-982/faq-accordion.git
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/temesgen-982/interactive-rating-component.git
