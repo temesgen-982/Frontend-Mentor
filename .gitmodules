@@ -40,3 +40,6 @@
 [submodule "interactive-rating-component"]
 	path = interactive-rating-component
 	url = https://github.com/temesgen-982/interactive-rating-component.git
+[submodule "rest-countries-api"]
+	path = rest-countries-api
+	url = https://github.com/temesgen-982/rest-countries-api
