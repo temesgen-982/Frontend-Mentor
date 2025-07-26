@@ -43,3 +43,30 @@
 [submodule "rest-countries-api"]
 	path = rest-countries-api
 	url = https://github.com/temesgen-982/rest-countries-api
+[submodule "mortgage-payment-calculator"]
+	path = mortgage-payment-calculator
+	url = https://github.com/temesgen-982/mortgage-payment-calculator
+[submodule "product-list-with-cart"]
+	path = product-list-with-cart
+	url = https://github.com/temesgen-982/product-list-with-cart
+[submodule "results-summary-component"]
+	path = results-summary-component
+	url = https://github.com/temesgen-982/results-summary-component
+[submodule "e-commerce-product-page"]
+	path = e-commerce-product-page
+	url = https://github.com/temesgen-982/e-commerce-product-page
+[submodule "bookmark-landing-page"]
+	path = bookmark-landing-page
+	url = https://github.com/temesgen-982/bookmark-landing-page
+[submodule "room-homepage"]
+	path = room-homepage
+	url = https://github.com/temesgen-982/room-homepage
+[submodule "lupstudios-landing-page"]
+	path = lupstudios-landing-page
+	url = https://github.com/temesgen-982/lupstudios-landing-page
+[submodule "nft-preview-card-component"]
+	path = nft-preview-card-component
+	url = https://github.com/temesgen-982/nft-preview-card-component
+[submodule "news-homepage"]
+	path = news-homepage
+	url = https://github.com/temesgen-982/news-homepage
